@@ -24,5 +24,6 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Packsunhye&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Packsunhye&show_icons=true&theme=tokyonight)   
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A88EE9&title_bg=%23454545&icon=&icon_color=%23E7E7E7&title=PackSunhye&edge_flat=false)](https://hits.seeyoufarm.com)
