@@ -26,4 +26,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Packsunhye&show_icons=true&theme=tokyonight)   
 
-url=https%3A%2F%2Fgithub.com%2FPacksunhye&count_bg=%23A88EE9&title_bg=%23454545&icon=&icon_color=%23E7E7E7&title=PackSunhye&edge_flat=false)](https://hits.seeyoufarm.com)
