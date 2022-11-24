@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=BA94D1&height=50&section=header&text=안녕하세용%20:3&fontSize=24)
+![header](https://capsule-render.vercel.app/api?type=shark&color=BA94D1&height=50&section=header&text=안녕하세용%20:3&fontSize=24)
 
 <h2>💜 : 프로그래밍 & 마크업 언어</h2>
 <p>
