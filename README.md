@@ -2,7 +2,7 @@
 
 <h2>👩🏻‍💻 : 프로그래밍 & 마크업 언어</h2>
 <p>
-  <a href="https://kimsangjunv1.github.io/coding/javascript/index.html"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-512BD4?style=flat&logo=JavaScript&logoColor=white"></a>
+  <a href="https://Packsunhye.github.io/codingclass/javascript/index.html"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-512BD4?style=flat&logo=JavaScript&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-ffffff?logo=HTML5&logoColor=512BD4"></a>
   <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-512BD4?logo=CSS3&logoColor=white"></a>
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-ffffff?logo=PHP&logoColor=512BD4"></a>
