@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=BA94D1&height=50&section=header&text=안녕하세용%20:3&fontSize=24)
 
 <h2>💜 : 프로그래밍 & 마크업 언어</h2>
 <p>
@@ -32,9 +31,6 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-ffffff?logo=Visual Studio Code&logoColor=512BD4"></a>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
-
-
 <p>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPacksunhye&count_bg=%23A2A1DF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
@@ -44,6 +40,7 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Packsunhye&show_icons=true&theme=tokyonight)   
 
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=7743DB&height=200&section=footer)
   
 
 
