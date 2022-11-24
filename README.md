@@ -1,5 +1,5 @@
 <div align="center">
-<h2>👩🏻‍💻 : 프로그래밍 & 마크업 언어</h2>
+<h2🏻‍( •̀ ω •́ )✧ : 프로그래밍 & 마크업 언어</h2>
 <p>
   <a href="https://kimsangjunv1.github.io/coding/javascript/index.html"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-512BD4?style=flat&logo=JavaScript&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-ffffff?logo=HTML5&logoColor=512BD4"></a>
@@ -10,8 +10,8 @@
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-512BD4?logo=TypeScript&logoColor=white"></a>
 </p>
 <br>
-<!-- ### ⚒️: 프레임워크 & 라이브러리 -->
-<h2>⚒️: 프레임워크 & 라이브러리</h2>
+<!-- ### : 프레임워크 & 라이브러리 -->
+<h2>`(*>﹏<*)′: 프레임워크 & 라이브러리</h2>
 <p>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-ffffff?logo=Bootstrap&logoColor=512BD4"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-512BD4?logo=React&logoColor=white"></a>
@@ -19,13 +19,13 @@
   <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-512BD4?logo=jQuery&logoColor=white"></a>
 </p>
 <br>
-<h2>☁️: 데이터베이스 & 클라우드 호스팅</h2>
+<h2>(≧∀≦)ゞ : 데이터베이스 & 클라우드 호스팅</h2>
 <p>
   <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-ffffff?logo=Netlify&logoColor=512BD4"></a>
   <a href="#"><img alt="phpMyAdmin" src="https://img.shields.io/badge/phpMyAdmin-512BD4?logo=phpMyAdmin&logoColor=white"></a>
 </p>
 <br>
-<h2>🖥️: 소프트웨어 & 툴</h2>
+<h2>♪(´▽｀) : 소프트웨어 & 툴</h2>
 <p>
 
   <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-ffffff?logo=Adobe&logoColor=512BD4"></a>
@@ -34,7 +34,7 @@
   <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-512BD4?logo=Postman&logoColor=white"></a>
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-ffffff?logo=Visual Studio Code&logoColor=512BD4"></a>
 </p>
-<br><br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Packsunhye&show_icons=true&theme=tokyonight)   
   
 </div>
