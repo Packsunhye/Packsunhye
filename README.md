@@ -40,7 +40,7 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Packsunhye&show_icons=true&theme=tokyonight)   
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=7743DB&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=8665ff&height=200&section=footer)
   
 
 
