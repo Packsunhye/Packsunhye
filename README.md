@@ -1,4 +1,7 @@
+<br>
+<div>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Packsunhye&theme=tokyo-night)](https://github.com/Packsunhye/github-readme-activity-graph)
+ </div>
 
 <h2>💜 : 프로그래밍 & 마크업 언어</h2>
 <p>
