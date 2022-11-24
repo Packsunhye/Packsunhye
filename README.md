@@ -1,5 +1,5 @@
-<div align="center">
-<h2🏻‍( •̀ ω •́ )✧ : 프로그래밍 & 마크업 언어</h2>
+
+<h2 🏻‍( •̀ ω •́ )✧ : 프로그래밍 & 마크업 언어</h2>
 <p>
   <a href="https://kimsangjunv1.github.io/coding/javascript/index.html"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-512BD4?style=flat&logo=JavaScript&logoColor=white"></a>
   <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-ffffff?logo=HTML5&logoColor=512BD4"></a>
@@ -37,5 +37,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Packsunhye&show_icons=true&theme=tokyonight)   
   
-</div>
+
 
